@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/gitabhi-dwi/.gitSpotifyclone.git
+git clone https://github.com/gitabhi-dwi/Spotifyclone.git
 Navigate to the project directory:
 
 bash
